@@ -1,0 +1,199 @@
+[
+  {
+    "backcolor": "#050000",
+    "name": "Kechron K6 - Win",
+    "author": "S13391355",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Green",
+    "plate": true
+  },
+  [
+    {
+      "c": "#ff6800",
+      "t": "#e4dedd",
+      "p": "OEM",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Green",
+      "a": 5
+    },
+    "esc\n` ~",
+    {
+      "c": "#5d6060",
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        0,
+        2
+      ]
+    },
+    "\n<i class='kb kb-Unicode-Screen-Dim'></i>\n\nF1\n\n\n\n\n1 !",
+    "\n<i class='kb kb-Unicode-Screen-Bright'></i>\n\nF2\n\n\n\n\n2 @",
+    "\n<i class='fa fa-th-large'></i>\n\nF3\n\n\n\n\n3 #",
+    "\n<i class='fa fa-th'></i>\n\nF4\n\n\n\n\n4 $",
+    {
+      "c": "#8b8e8e"
+    },
+    "\n\n\nF5\n\n\n\n\n5 %",
+    "\n\n\nF6\n\n\n\n\n6 ^",
+    "\n<i class='kb kb-Multimedia-Rewind'></i>\n\nF7\n\n\n\n\n7 &",
+    "\n<i class='kb kb-Multimedia-Play-Pause'></i>\n\nF8\n\n\n\n\n8 *",
+    "\n<i class='kb kb-Multimedia-FastForwar'></i>\n\nF9\n\n\n\n\n9 (",
+    {
+      "c": "#5d6060"
+    },
+    "\n<i class='kb kb-Multimedia-Mute-3'></i>\n\nF10\n\n\n\n\n0 )",
+    "\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\n\nF11\n\n\n\n\n- _",
+    "\n<i class='kb kb-Multimedia-Volume-Up-1'></i>\n\nF12\n\n\n\n\n= +",
+    {
+      "c": "#8b8e8e",
+      "a": 5,
+      "w": 2
+    },
+    "<i class='kb kb-Arrows-Left'></i>",
+    {
+      "c": "#ff6800"
+    },
+    "<i class='fa fa-lightbulb-o'></i>"
+  ],
+  [
+    {
+      "c": "#8b8e8e",
+      "w": 1.5
+    },
+    "tab",
+    {
+      "c": "#5d6060",
+      "a": 4
+    },
+    "\n\n\n<i class=\"fab fa-bluetooth-b\"></i>\n\n\n\n\nQ",
+    "\n\n\n<i class=\"fab fa-bluetooth-b\"></i>\n\n\n\n\nW",
+    "\n\n\n<i class=\"fab fa-bluetooth-b\"></i>\n\n\n\n\nE",
+    {
+      "a": 5
+    },
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P\ninsert",
+    "[ {\ndel",
+    "] }\nend",
+    {
+      "c": "#8b8e8e",
+      "w": 1.5
+    },
+    "\\ |",
+    "home"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "caps lock",
+    {
+      "c": "#5d6060"
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    "; :",
+    "' \"",
+    {
+      "c": "#8b8e8e",
+      "w": 2.25
+    },
+    "<i class='kb kb-Return-2'></i>",
+    "page up"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "shift",
+    {
+      "c": "#5d6060"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    ", <",
+    ". >",
+    "/ ?",
+    {
+      "c": "#8b8e8e",
+      "w": 1.75
+    },
+    "shift",
+    {
+      "c": "#5d6060"
+    },
+    "↑",
+    {
+      "c": "#8b8e8e"
+    },
+    "page down"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "control",
+    {
+      "w": 1.25
+    },
+    "<i class='fa fa-windows'></i>",
+    {
+      "w": 1.25
+    },
+    "alt",
+    {
+      "c": "#5d6060",
+      "fa": [
+        1
+      ],
+      "w": 6.25
+    },
+    "_______________",
+    {
+      "c": "#8b8e8e",
+      "f": 3
+    },
+    "alt",
+    {
+      "f": 3
+    },
+    "fn1",
+    {
+      "f": 3
+    },
+    "fn2",
+    {
+      "c": "#5d6060",
+      "f": 3
+    },
+    "←",
+    {
+      "f": 3
+    },
+    "↓",
+    {
+      "f": 3
+    },
+    "→"
+  ]
+]
